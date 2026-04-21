@@ -1842,5 +1842,17 @@
     "name": "VIRTUAL LION AIR GROUP",
     "callsign": "MENTARI",
     "virtual": true
+  },
+  {
+    "icao": "MAS",
+    "name": "vMAS - virtual Malaysia Airlines",
+    "callsign": "MALAYSIAN",
+    "virtual": true
+  },
+  {
+    "icao": "FFM",
+    "name": "vMAS - virtual Malaysia Airlines",
+    "callsign": "FIREFLY",
+    "virtual": true
   }
 ]
