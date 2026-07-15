@@ -1857,19 +1857,19 @@
   },
   {
     "icao": "MAS",
-    "name": "VMAS",
+    "name": "Virtual Malaysia Airlines",
     "callsign": "MALAYSIAN",
     "virtual": true
   },
   {
     "icao": "FFM",
-    "name": "VMAS",
+    "name": "Virtual Malaysia Airlines",
     "callsign": "FIREFLY",
     "virtual": true
   },
   {
     "icao": "MWG",
-    "name": "VMAS",
+    "name": "Virtual Malaysia Airlines",
     "callsign": "AIRBORNEO",
     "virtual": true
   },
